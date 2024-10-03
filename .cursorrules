@@ -1,0 +1,4 @@
+This next.js project uses Payload 3.0 beta as a headless CMS. You have access to documentation for this beta version. It is now embedded inside a next.js app. Do not fall back on payload 2.x behavior, use only fresh docs.
+It's built with app router, next.js 15 canary on top of react 19, use everything you know about it and otherwise default for next.js 14 app router and react 18.
+Always respect typescript, use and/or create proper types.
+Prefer single quotes.
